@@ -32,6 +32,9 @@
 ## Text-based Games
 - Microsoft TextWorld [[Link]](https://www.microsoft.com/en-us/research/project/textworld/) 
 
+## Rogue-Like Games
+- Nethack Learning Environment [[Github]](https://github.com/facebookresearch/nle) 
+
 ## Others 
 - Baba is You
   - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
