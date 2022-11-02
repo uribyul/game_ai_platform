@@ -7,3 +7,6 @@
 - Angry Birds 
   - Angry Birds Playing Software [[Link]](http://aibirds.org/basic-game-playing-software.html)
   - Science Birds [[Github]](https://github.com/lucasnfe/science-birds) 
+- Hearthstone 
+  - RosettaStone [[Github]](https://github.com/utilForever/RosettaStone) 
+  - HearthSim [[Link]](https://hearthsim.info/) 
