@@ -23,12 +23,13 @@
   - MineRL [[Link]](https://minerl.io/) 
 
 ## Classic Video Games
-- Classic Video Games
+- Retro Games
   - Gym Retro [[Github]](https://github.com/openai/retro) [[Blog]](https://openai.com/blog/gym-retro/) 
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
 - Super Mario 
   - Infinite Mario Bros [[Link]](http://julian.togelius.com/mariocompetition2009/) 
 - Fighting Game [[Link]](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/) 
+- ProcGen [[Link]](https://openai.com/blog/procgen-benchmark/) [[Github]](https://openai.com/blog/procgen-benchmark/) 
 
 ## Collaborative Games 
 - Overcooked!
