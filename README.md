@@ -30,6 +30,7 @@
   - Infinite Mario Bros [[Link]](http://julian.togelius.com/mariocompetition2009/) 
 - Fighting Game [[Link]](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/) 
 - ProcGen [[Link]](https://openai.com/blog/procgen-benchmark/) [[Github]](https://openai.com/blog/procgen-benchmark/) 
+- Pommerman (similar to Bomberman) [[Link]](https://www.pommerman.com/) 
 
 ## Collaborative Games 
 - Overcooked!
