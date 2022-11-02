@@ -37,6 +37,7 @@
   - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
 
 ## MOBA 
+- DoTa 2 [[Github]](https://github.com/ellakk/5v5dota2ai-framework) 
 - Tencent Honor of Kings [[Github]](https://github.com/tencent-ailab/hok_env) 
 
 ## Text-based Games
