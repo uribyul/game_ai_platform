@@ -14,3 +14,5 @@
   - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
 - Hanabi 
   - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
+- Classic Video Games
+  - Gym Retro [[Github]](https://github.com/openai/retro) 
