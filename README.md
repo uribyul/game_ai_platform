@@ -27,7 +27,7 @@
   - Gym Retro [[Github]](https://github.com/openai/retro) [[Blog]](https://openai.com/blog/gym-retro/) 
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
 - Overcooked!
-  - Overcooked-AI [[Github]](https://github.com/HumanCompatibleAI/overcooked_ai) 
+  - Overcooked-AI [[Github]](https://github.com/HumanCompatibleAI/overcooked_ai) [[Blog]](https://bair.berkeley.edu/blog/2019/10/21/coordination/) 
 
 ## Text-based Games
 - Microsoft TextWorld [[Link]](https://www.microsoft.com/en-us/research/project/textworld/) 
