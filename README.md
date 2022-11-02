@@ -53,5 +53,8 @@
 - Football 
   - Google Football Research [[Github]](https://github.com/google-research/football) [[Blog]](https://ai.googleblog.com/2019/06/introducing-google-research-football.html) 
 
+## First-Person Shooting
+- VizDoom [[Github]](https://github.com/mwydmuch/ViZDoom) 
+
 ## Game Data
 - Blade & Soul, Lineage (NCSOFT) [[Link]](https://danbi-ncsoft.github.io/OpenData/) 
