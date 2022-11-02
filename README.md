@@ -19,3 +19,5 @@
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
 - Overcooked!
   - Overcooked-AI [[Github]](https://github.com/HumanCompatibleAI/overcooked_ai) 
+- MineCraft 
+  - MineRL [[Link]](https://minerl.io/) 
