@@ -15,9 +15,7 @@
 - Hearthstone 
   - RosettaStone [[Github]](https://github.com/utilForever/RosettaStone) 
   - HearthSim [[Link]](https://hearthsim.info/) 
-- Hanabi 
-  - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
-
+  
 ## Sandbox Games 
 - MineCraft 
   - MineRL [[Link]](https://minerl.io/) 
@@ -26,8 +24,12 @@
 - Classic Video Games
   - Gym Retro [[Github]](https://github.com/openai/retro) [[Blog]](https://openai.com/blog/gym-retro/) 
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
+
+## Collaborative Games 
 - Overcooked!
   - Overcooked-AI [[Github]](https://github.com/HumanCompatibleAI/overcooked_ai) [[Blog]](https://bair.berkeley.edu/blog/2019/10/21/coordination/) 
+- Hanabi 
+  - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
 
 ## Text-based Games
 - Microsoft TextWorld [[Link]](https://www.microsoft.com/en-us/research/project/textworld/) 
