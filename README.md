@@ -26,6 +26,7 @@
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
 - Super Mario 
   - Infinite Mario Bros [[Link]](http://julian.togelius.com/mariocompetition2009/) 
+- Fighting Game [[Link]](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/) 
 
 ## Collaborative Games 
 - Overcooked!
