@@ -56,6 +56,7 @@
 
 ## First-Person Shooting
 - VizDoom [[Github]](https://github.com/mwydmuch/ViZDoom) 
+- Wilderness Scavenger: 3D Open-World FPS Game AI Challenge [[Github]](https://github.com/inspirai/wilderness-scavenger) [[Competition]](https://sites.google.com/view/inspirai-wildscav-cog2022/home) 
 
 ## Game Data
 - Blade & Soul, Lineage (NCSOFT) [[Link]](https://danbi-ncsoft.github.io/OpenData/) 
