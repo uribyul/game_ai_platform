@@ -24,6 +24,8 @@
 - Classic Video Games
   - Gym Retro [[Github]](https://github.com/openai/retro) [[Blog]](https://openai.com/blog/gym-retro/) 
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
+- Super Mario 
+  - Infinite Mario Bros [[Link]](http://julian.togelius.com/mariocompetition2009/) 
 
 ## Collaborative Games 
 - Overcooked!
