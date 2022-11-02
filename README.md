@@ -41,6 +41,9 @@
 - DoTa 2 [[Github]](https://github.com/ellakk/5v5dota2ai-framework) 
 - Tencent Honor of Kings [[Github]](https://github.com/tencent-ailab/hok_env) 
 
+## MMORPG
+- NeuroMMO [[Github]](https://github.com/NeuralMMO/environment) 
+
 ## Text-based Games
 - Microsoft TextWorld [[Link]](https://www.microsoft.com/en-us/research/project/textworld/) 
 
