@@ -12,3 +12,5 @@
   - HearthSim [[Link]](https://hearthsim.info/) 
 - Baba is You
   - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
+- Hanabi 
+  - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
