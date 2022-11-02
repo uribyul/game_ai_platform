@@ -49,5 +49,9 @@
 - Baba is You
   - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
 
+## Sports Games
+- Football 
+  - Google Football Research [[Github]](https://github.com/google-research/football) [[Blog]](https://ai.googleblog.com/2019/06/introducing-google-research-football.html) 
+
 ## Game Data
 - Blade & Soul, Lineage (NCSOFT) [[Link]](https://danbi-ncsoft.github.io/OpenData/) 
