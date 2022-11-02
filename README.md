@@ -33,6 +33,9 @@
 - Hanabi 
   - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
 
+## MOBA 
+- Tencent Honor of Kings [[Github]](https://github.com/tencent-ailab/hok_env) 
+
 ## Text-based Games
 - Microsoft TextWorld [[Link]](https://www.microsoft.com/en-us/research/project/textworld/) 
 
