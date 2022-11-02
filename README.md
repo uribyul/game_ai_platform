@@ -15,4 +15,4 @@
 - Hanabi 
   - Hanabi Learning Environment [[Github]](https://github.com/deepmind/hanabi-learning-environment) 
 - Classic Video Games
-  - Gym Retro [[Github]](https://github.com/openai/retro) 
+  - Gym Retro [[Github]](https://github.com/openai/retro) [[Blog]](https://openai.com/blog/gym-retro/) 
