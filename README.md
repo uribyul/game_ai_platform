@@ -42,6 +42,9 @@
 ## Rogue-Like Games
 - Nethack Learning Environment [[Github]](https://github.com/facebookresearch/nle) 
 
-## Others 
+## Puzzle Games
 - Baba is You
   - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
+
+## Game Data
+- Blade & Soul, Lineage (NCSOFT) [[Link]](https://danbi-ncsoft.github.io/OpenData/) 
