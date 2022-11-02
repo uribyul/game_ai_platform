@@ -17,3 +17,5 @@
 - Classic Video Games
   - Gym Retro [[Github]](https://github.com/openai/retro) [[Blog]](https://openai.com/blog/gym-retro/) 
   - Atari Learning Environment [[Github]](https://github.com/mgbellemare/Arcade-Learning-Environment) 
+- Overcooked!
+  - Overcooked-AI [[Github]](https://github.com/HumanCompatibleAI/overcooked_ai) 
