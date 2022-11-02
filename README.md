@@ -10,3 +10,5 @@
 - Hearthstone 
   - RosettaStone [[Github]](https://github.com/utilForever/RosettaStone) 
   - HearthSim [[Link]](https://hearthsim.info/) 
+- Baba is You
+  - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
