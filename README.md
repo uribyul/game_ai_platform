@@ -72,3 +72,6 @@
 
 ## Game Data
 - Blade & Soul, Lineage (NCSOFT) [[Link]](https://danbi-ncsoft.github.io/OpenData/) 
+- Kaggle 
+  - Dota 2 Matches [[Link]](https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches) 
+  - League of Legends Ranked Matches [[Link]](https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches) 
