@@ -21,6 +21,7 @@
 ## Sandbox Games 
 - MineCraft 
   - MineRL [[Link]](https://minerl.io/) 
+  - Generative Design in MineCraft [[Link]](https://gendesignmc.engineering.nyu.edu/) 
 
 ## Classic Video Games
 - Retro Games
