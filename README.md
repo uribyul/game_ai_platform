@@ -59,6 +59,7 @@
 ## Sports Games
 - Football 
   - Google Football Research [[Github]](https://github.com/google-research/football) [[Blog]](https://ai.googleblog.com/2019/06/introducing-google-research-football.html) 
+- Rocket League [[Link]](https://rlbot.org/) 
 
 ## First-Person Shooting
 - VizDoom [[Github]](https://github.com/mwydmuch/ViZDoom) 
