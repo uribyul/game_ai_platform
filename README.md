@@ -46,7 +46,7 @@
 - DoTa 2 [[Github]](https://github.com/ellakk/5v5dota2ai-framework) 
 - Tencent Honor of Kings [[Github]](https://github.com/tencent-ailab/hok_env) 
 
-## RPG + MMORPG
+## RPG/MMORPG
 - Pockemon [[Competition]](https://gitlab.com/DracoStriker/pokemon-vgc-engine/-/wikis/home) 
 - NeuroMMO [[Github]](https://github.com/NeuralMMO/environment) 
 
