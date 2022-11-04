@@ -1,12 +1,13 @@
 # Game AI Research Platform 
 
-## Real-Time Strategy Games 
+## Strategy Games 
 - StarCraft I 
   - Brood War API [[Github]](https://github.com/bwapi/bwapi) 
 - StarCraft II 
   - StarCraft II Learning Environment [[Github]](https://github.com/deepmind/pysc2) [[Paper]](https://arxiv.org/pdf/1708.04782.pdf) 
 - DeepRTS [[Github]](https://github.com/cair/deep-rts) 
 - microRTS-Py [[Github]](https://github.com/Farama-Foundation/MicroRTS-Py) 
+- Stratega [[Github]](https://github.com/GAIGResearch/Stratega) 
 
 ## Physics-based Games 
 - Angry Birds 
