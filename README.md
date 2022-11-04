@@ -44,7 +44,7 @@
 - Tencent Honor of Kings [[Github]](https://github.com/tencent-ailab/hok_env) 
 
 ## RPG + MMORPG
-- Pocketmon 
+- Pockemon [[Competition]](https://gitlab.com/DracoStriker/pokemon-vgc-engine/-/wikis/home) 
 - NeuroMMO [[Github]](https://github.com/NeuralMMO/environment) 
 
 ## Text-based Games
