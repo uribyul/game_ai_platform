@@ -56,7 +56,7 @@
 
 ## Puzzle Games
 - Baba is You
-  - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
+  - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) [[Competitoin]](http://keke-ai-competition.com/) 
 - 2048 
 
 ## Sports Games
