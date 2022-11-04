@@ -43,7 +43,8 @@
 - DoTa 2 [[Github]](https://github.com/ellakk/5v5dota2ai-framework) 
 - Tencent Honor of Kings [[Github]](https://github.com/tencent-ailab/hok_env) 
 
-## MMORPG
+## RPG + MMORPG
+- Pocketmon 
 - NeuroMMO [[Github]](https://github.com/NeuralMMO/environment) 
 
 ## Text-based Games
@@ -55,6 +56,7 @@
 ## Puzzle Games
 - Baba is You
   - Baba is auto [[Github]](https://github.com/utilForever/baba-is-auto) 
+- 2048 
 
 ## Sports Games
 - Football 
