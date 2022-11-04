@@ -14,10 +14,11 @@
   - Angry Birds Playing Software [[Link]](http://aibirds.org/basic-game-playing-software.html)
   - Science Birds [[Github]](https://github.com/lucasnfe/science-birds) 
 
-## Card Games 
+## Card/Board Games 
 - Hearthstone 
   - RosettaStone [[Github]](https://github.com/utilForever/RosettaStone) 
   - HearthSim [[Link]](https://hearthsim.info/) 
+- Tabletop games [[Github]](https://github.com/GAIGResearch/TabletopGames) 
   
 ## Sandbox Games 
 - MineCraft 
