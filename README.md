@@ -86,3 +86,4 @@
 - Video Game Level Corpus [[Github]](https://github.com/TheVGLC/TheVGLC) 
 - OpenDota API [[Link]](https://docs.opendota.com/) 
 - LoL Match Data from Oracle's Elixir [[Link]](https://oracleselixir.com/tools/downloads) 
+- Affective Game Annotation Dataset (AGAIN) [[Link]](https://again.institutedigitalgames.com/) 
