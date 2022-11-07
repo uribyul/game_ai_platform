@@ -35,6 +35,7 @@
 - Fighting Game [[Link]](https://www.ice.ci.ritsumei.ac.jp/~ftgaic/) 
 - ProcGen [[Link]](https://openai.com/blog/procgen-benchmark/) [[Github]](https://openai.com/blog/procgen-benchmark/) 
 - Pommerman (similar to Bomberman) [[Link]](https://www.pommerman.com/) 
+- Griddly: A grid-world game engine for game AI research [[Github]](https://github.com/Bam4d/Griddly) 
 
 ## Collaborative Games 
 - Overcooked!
