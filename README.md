@@ -37,7 +37,6 @@
 - Pommerman (similar to Bomberman) [[Link]](https://www.pommerman.com/) 
 - Griddly: A grid-world game engine for game AI research [[Github]](https://github.com/Bam4d/Griddly) 
 - General Video Game AI [[Github]](https://github.com/GAIGResearch/GVGAI) 
-- 
 
 ## Collaborative Games 
 - Overcooked!
